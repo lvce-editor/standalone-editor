@@ -10,10 +10,11 @@ const root = join(__dirname, '..')
 const locations = [
   'lerna.json',
   'package-lock.json',
-  'packages/e2e/package-lock.json',
-  'packages/integration/package-lock.json',
   'packages/build/package-lock.json',
+  'packages/e2e/package-lock.json',
   'packages/editor-worker/package-lock.json',
+  'packages/integration/package-lock.json',
+  'packages/server/package-lock.json',
   '.github/workflows/pr.yml',
   '.github/workflows/ci.yml',
   '.github/workflows/release.yml',

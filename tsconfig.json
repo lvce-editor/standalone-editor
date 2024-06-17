@@ -5,6 +5,7 @@
     { "path": "./packages/build" },
     { "path": "./packages/editor-worker" },
     { "path": "./packages/e2e" },
-    { "path": "./packages/integration" }
+    { "path": "./packages/integration" },
+    { "path": "./packages/server" }
   ]
 }
