@@ -3,9 +3,8 @@
   "include": [],
   "references": [
     { "path": "./packages/build" },
-    { "path": "./packages/css-worker" },
+    { "path": "./packages/editor-worker" },
     { "path": "./packages/e2e" },
-    { "path": "./packages/extension" },
     { "path": "./packages/integration" }
   ]
 }
