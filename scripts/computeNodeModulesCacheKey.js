@@ -15,6 +15,7 @@ const locations = [
   'packages/editor-worker/package-lock.json',
   'packages/integration/package-lock.json',
   'packages/server/package-lock.json',
+  'packages/renderer-process/package-lock.json',
   '.github/workflows/pr.yml',
   '.github/workflows/ci.yml',
   '.github/workflows/release.yml',
