@@ -5,6 +5,7 @@
     "checkJs": true,
     "module": "esnext",
     "types": ["node"],
+    "ignoreDeprecations": "6.0",
     "moduleResolution": "node",
     "rootDir": ".",
     "allowJs": true,
